@@ -626,7 +626,7 @@ def onmessage(update,bot:ObigramClient):
             #    message_id = int(update.message.message_id)
             #    import asyncio
             #    asyncio.run(tlmedia.download_media(
-(api_id,api_hash,bot_token,chat_id,message_id))
+            #    asyncio.run(tlmedia.download_media(api_id,api_hash,bot_token,chat_id,message_id))
             #    return
             bot.editMessageText(message,'😤𝐍𝐨 𝐬𝐞 𝐩𝐮𝐝𝐨 𝐩𝐫𝐨𝐜𝐞𝐬𝐚𝐫😤')
     except Exception as ex:
