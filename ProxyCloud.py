@@ -23,6 +23,6 @@ def parse(text):
     return None
 
 
-#enc = S5Crypto.encrypt('152.206.85.87:9050')
+#enc = S5Crypto.encrypt('152.206.177.236:9050')
 #proxy= f'socks5://' + enc
 #print(proxy)
