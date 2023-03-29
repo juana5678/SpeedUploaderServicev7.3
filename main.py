@@ -19,6 +19,7 @@ import socket
 import tlmedia
 import S5Crypto
 
+import educa
 
 def downloadFile(downloader,filename,currentBits,totalBits,speed,time,args):
     try:
